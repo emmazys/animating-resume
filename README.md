@@ -9,7 +9,6 @@
 ``` bash
 git clone git@github.com:piaohan/animating-resume.git
 cd animating-resume
-npm install
 npm run dev
 ```
 
